@@ -1,0 +1,46 @@
+body {
+    margin: 15px;
+    padding: 15px;
+    background-color: aqua;
+    font-size: 26px;
+    line-height: 26px;
+    border: 2px solid black;
+    row-gap: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.wrapper {
+    width: 700px;
+    display: flex;
+    background-color: pink;
+    justify-content: space-around;
+    margin: 15px auto;
+}
+
+.wrapper-suka {
+    display: flex;
+    width: 300px;
+    background-color: greenyellow;
+    margin: 15px auto;
+}
+
+.block {
+    background-color: blueviolet;
+}
+
+.block2 {
+    background-color: rgb(122, 34, 60);
+}
+
+.block3 {
+    background-color: rgb(34, 151, 167);
+}
+
+.block4 {
+    background-color: rgb(139, 98, 20);
+}
